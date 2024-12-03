@@ -14,7 +14,7 @@ This is a simple Zoo Management System written in C# that demonstrates object-or
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/yourusername/zoo-management-system.git](https://github.com/Evgeniy20181/Zoo_OOP/)
+   git clone https://github.com/Evgeniy20181/Zoo_OOP/
    ```
 2. Open the project in your favorite C# development environment (e.g., Visual Studio or Visual Studio Code).
 3. Build and run the `Program.cs` file to see the zoo management system in action.
