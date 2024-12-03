@@ -41,7 +41,7 @@ namespace ZooManagement
     // Derived class (Undertype 2)
     public class Elephant : Animal
     {
-        public Elephant(string name) : base(name, "Elephant") { }
+        public Elephant(string name) : base(name, "Elephant") {  }
 
         public override string LagerHvilkenLyd() => "Trumpet!";
         public override void Spiser() => Console.WriteLine($"{Name} spiser planter.");
