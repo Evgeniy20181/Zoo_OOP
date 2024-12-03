@@ -1,0 +1,20 @@
+# Ignore all files by default
+*
+
+# grant C# Source code 
+!*.cs
+
+# grant .gitignore
+!.gitignore
+
+# grant JSON and XML
+!*.json
+!*.xml
+
+!*.csproj
+
+!icon.ico
+
+!README.md
+
+
